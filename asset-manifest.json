@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AleksandraBoch/hotels.git/static/css/main.073c9b0a.css",
+    "main.js": "/AleksandraBoch/hotels.git/static/js/main.f7bfc00e.js",
+    "static/js/787.cfec5371.chunk.js": "/AleksandraBoch/hotels.git/static/js/787.cfec5371.chunk.js",
+    "index.html": "/AleksandraBoch/hotels.git/index.html",
+    "main.073c9b0a.css.map": "/AleksandraBoch/hotels.git/static/css/main.073c9b0a.css.map",
+    "main.f7bfc00e.js.map": "/AleksandraBoch/hotels.git/static/js/main.f7bfc00e.js.map",
+    "787.cfec5371.chunk.js.map": "/AleksandraBoch/hotels.git/static/js/787.cfec5371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f7bfc00e.js"
+  ]
+}
