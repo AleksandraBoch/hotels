@@ -1,13 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {MAinScreen} from "./components/MainPage/mainPage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-
-      </header>
+    <div >
+      <MAinScreen/>
     </div>
   );
 }
